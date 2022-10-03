@@ -1,4 +1,4 @@
-# Cult Bollinger Bands Based Investment Smart Contract
+# Cult Ether Longterm Investment Optimization
 
 ## Bollinger Bands Smart Contract
 This is about providing Bollinger Bands related features on-chain.  
